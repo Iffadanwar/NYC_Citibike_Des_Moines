@@ -19,6 +19,10 @@ The CitiData.csv will be used and modified to help understand the data. Columns 
 ## Result
 Results were extracted for the graphs created which better allows us to understand our customers even in Des Moines.
 
+This is a link to the story-board in Tableau.
+https://public.tableau.com/app/profile/iffad.anwar/viz/NYC_Citibike_Des_Moines/Story1?publish=yes
+
+
 ![diliv 2.1](https://github.com/Iffadanwar/NYC_Citibike_Des_Moines/blob/main/images/diliv%202.1.png)
 
 ![diliv 2.2](https://github.com/Iffadanwar/NYC_Citibike_Des_Moines/blob/main/images/diliv%202.2.png)
