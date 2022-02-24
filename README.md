@@ -20,8 +20,8 @@ The CitiData.csv will be used and modified to help understand the data. Columns 
 Results were extracted for the graphs created which better allows us to understand our customers even in Des Moines.
 
 This is a link to the story-board in Tableau.
-https://public.tableau.com/app/profile/iffad.anwar/viz/NYC_Citibike_Des_Moines/Story1?publish=yes
 
+[link to Story](https://public.tableau.com/app/profile/iffad.anwar/viz/NYC_Citibike_Des_Moines/Story1?publish=yes)
 
 ![diliv 2.1](https://github.com/Iffadanwar/NYC_Citibike_Des_Moines/blob/main/images/diliv%202.1.png)
 
@@ -50,6 +50,8 @@ Here we see that both the starting location and ending location are centralized 
 ## Conclusion
 
 ![Dashboard](https://github.com/Iffadanwar/NYC_Citibike_Des_Moines/blob/main/images/Dashboard.png)
+
+[link to dashboard](https://public.tableau.com/app/profile/iffad.anwar/viz/NYC_Citibike_Des_Moines_Dashboard/Dashboard1?publish=yes)
 
 We have found vital service and location data using simple graphing tools. Different graphics were used to tell a better story of how to move forward with our bike-sharing business in Des Moines city. Some of the major findings include:
 - Our user's time duration on bikes peaks at 5-10 mins.
